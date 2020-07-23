@@ -1,2 +1,2 @@
 # Udacity_Intro_to_Programming_Nanodegree
-All Projects in Udacity's Intro to Programming Nanodegree Program
+# I finished this nanodegree program on 22 July, 2020
